@@ -1,0 +1,11 @@
+#summary Front page
+
+The purpose of this tool is to make documentation generation easy, nice, available in
+(m)any formats.
+
+It includes:
+
+  * rst -> xml conversion
+  * xml -> docbook conversion
+  * docbook -> latex conversion
+  * docbook -> html conversion
