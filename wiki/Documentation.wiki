@@ -3,7 +3,7 @@
 
 = Introduction =
 
-All capabilities are (or should be) tested, so just look at tests to get an idea and examples how to work with prettydoc.
+All capabilities are (or should be) tested, so just look at tests to get an idea and examples how to work with prettydoc and then look into `tests/out/*.pdf` for the corresponding output (after running tests, see below).
 
 = Tests =
 
