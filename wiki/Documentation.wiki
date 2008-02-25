@@ -1,6 +1,10 @@
 #summary How to use it
 #labels Featured
 
+= Introduction =
+
+All capabilities are (or should be) tested, so just look at tests to get an idea and examples how to work with prettydoc.
+
 = Tests =
 
 {{{
