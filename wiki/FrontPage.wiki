@@ -14,6 +14,6 @@ Our hg repository:
 
 http://hg.sympy.org/prettydoc
 
-Currently, the only documentation are the sources. Follow the repository above for latest changes.
+Currently, the only documentation are the sources or in the [Documentation Documentation wiki]. Follow the repository above for latest changes.
 
 Please use either the [http://code.google.com/p/sympy/ sympy] or [http://code.google.com/p/sfepy/ sfepy] projects mailinglists for discussion about prettydoc.
