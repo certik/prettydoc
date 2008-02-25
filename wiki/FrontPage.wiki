@@ -9,3 +9,9 @@ It includes:
   * xml -> docbook conversion
   * docbook -> latex conversion
   * docbook -> html conversion
+
+Our hg repository:
+
+http://hg.sympy.org/prettydoc
+
+Currently, the only documentation are the sources. Follow the repository above for latest changes.
