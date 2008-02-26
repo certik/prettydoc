@@ -1,6 +1,6 @@
 #summary Front page
 
-The purpose of this tool is to make documentation generation easy, nice, available in
+The purpose of this tool is to make documentation generation easy, nice and available in
 (m)any formats.
 
 == Features ==
