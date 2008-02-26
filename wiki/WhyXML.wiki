@@ -9,7 +9,7 @@ Main points:
 You can write any UTF-8 text that you want, including all special characters, accents, whatever, there are only two exceptions:
 
   * "<" needs to be written as "&lt;"
-  * & needs to be written as "&amp;"
+  * "&" needs to be written as "&amp;"
 
 This means you no longer have to worry about escaping characters like "$", "\", "^" and you don't have to use some hard to remember markup for accented characters. You simply write UTF-8 (but you can use XML entities if you want, like "&ouml;" for "ö")
 
