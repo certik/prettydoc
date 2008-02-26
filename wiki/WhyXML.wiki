@@ -17,7 +17,7 @@ This means you no longer have to worry about escaping characters like "$", "\", 
 
 Because of the simple structure above, it's easy to parse and you can use standard tools for that in Python, e.g the `python-lxml` library.
 
-Because the format is so simple, you will always be able to write a simple program to generate any output you want even 50 years from now using tools available then. If XML goes out of the fashion, you can convert it from XML to any other format, that will become the standard.
+Because the format is so simple, you will always be able to write a simple program to generate any output you want even 50 years from now using tools available then. If XML goes out of the fashion, you can easily convert it from XML to any other format, that will become the standard.
 
 == content separation ==
 
