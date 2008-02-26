@@ -1,0 +1,14 @@
+#summary Motivation
+
+Main points:
+
+== simple ==
+
+You can write any UTF-8 text that you want, including all special characters, accents, whatever, except:
+
+  * "<" needs to be written as "&lt;"
+  * & needs to be written as "&amp;"
+
+== easy to parse in a program ==
+
+Because of the simple structure above, it's easy to parse and you can use standard tools for that in Python, e.g the `python-lxml` library.
