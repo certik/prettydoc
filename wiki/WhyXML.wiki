@@ -4,7 +4,7 @@ Main points:
 
 == simple ==
 
-You can write any UTF-8 text that you want, including all special characters, accents, whatever, except:
+You can write any UTF-8 text that you want, including all special characters, accents, whatever, there are only two exceptions:
 
   * "<" needs to be written as "&lt;"
   * & needs to be written as "&amp;"
