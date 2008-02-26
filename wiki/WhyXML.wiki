@@ -1,6 +1,6 @@
 #summary Motivation
 
-The philosophy is that you write your document once, and use your simple Python script to generate any output you want easily.
+The philosophy is that you write your document once, and use your simple Python script to generate any output you want easily and reliably (no XSL stylesheets or similar mess).
 
 Main points:
 
