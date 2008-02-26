@@ -9,6 +9,8 @@ You can write any UTF-8 text that you want, including all special characters, ac
   * "<" needs to be written as "&lt;"
   * & needs to be written as "&amp;"
 
+This means you no longer have to worry about escaping characters like "$", "\", "^" and you don't have to use some hard to remember markup for accented characters. You simply write UTF-8 (but you can use XML entities if you want, like "&ouml;" for "ö")
+
 == easy to parse in a program ==
 
 Because of the simple structure above, it's easy to parse and you can use standard tools for that in Python, e.g the `python-lxml` library.
