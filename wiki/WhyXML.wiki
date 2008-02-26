@@ -14,3 +14,8 @@ This means you no longer have to worry about escaping characters like "$", "\", 
 == easy to parse in a program ==
 
 Because of the simple structure above, it's easy to parse and you can use standard tools for that in Python, e.g the `python-lxml` library.
+
+== content separation ==
+
+You concentrate on content and let the converter handle the rest. The default converter
+in `prettydoc` does a good job and you can customize it's output as easily as deriving a simple Python class.
